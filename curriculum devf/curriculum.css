@@ -1,0 +1,26 @@
+body { 
+    text-align:center;
+}
+
+.image-profile {
+    width: 500px;
+    height: 500px;
+    border-radius: 30px;
+    border: 5px solid #555
+}
+
+.image-name {
+    width: 1060;
+    height: 89px;
+}
+
+ul{
+    position:relative;
+    display: inline-block;  
+    list-style: none;
+    width:100%;
+    text-align: center;
+    margin: auto;
+    padding: 0;
+  }
+
